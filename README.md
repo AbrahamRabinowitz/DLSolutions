@@ -1,5 +1,5 @@
 # DLSolutions
-This repository collect solutions for Stanfords [CS231N course on deep learning for 2022](http://cs231n.stanford.edu/2022/) which implemented and studied various machine learning and deep learning methods for computer vision. The purpose was to get some hands on experience with neural nets and some common architectures under the hood. Unless there is an explicit reference to Pytorch implementations are done using numpy in the codebase used for the course. 
+This repository collect solutions for Stanfords [CS231N course on deep learning for 2022](http://cs231n.stanford.edu/2022/) which implemented and studied various machine learning and deep learning methods for computer vision. The purpose was to get some hands on experience with neural nets and some common architectures under the hood. Unless there is an explicit mention to Pytorch implementations are done using NumPy in the codebase used for the course. 
 
 ## Assignment 1
 - [knn for image classification](https://github.com/AbrahamRabinowitz/DLSolutions/blob/main/assignment1/knn.ipynb) goes over the k nearest neighbors approach for image classification.
